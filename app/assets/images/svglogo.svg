@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_13" height="236.99999" width="274.00001" y="117.000001" x="169.999998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#bf0000" fill="#ffffff"/>
+  <polygon stroke-width="3" stroke="#3131aa" points="436.0017395019531,237 372.0008544921875,347.8527526855469 243.99913024902344,347.8527526855469 179.99826049804688,237 243.99913024902344,126.14724731445312 372.0008544921875,126.14724731445312 436.0017395019531,237 " strokeWidth="0" strokecolor="#ff0000" fill="#ffffff" edge="128.001736" orient="x" sides="6" shape="regularPoly" id="svg_10" cy="116" cx="151"/>
+  <ellipse ry="102" rx="102" id="svg_1" cy="239" cx="310" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ff0000" fill="#ff0000"/>
+  <polygon strokeWidth="5" strokecolor="#000000" fill="#ff0000" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_4" cy="139" cx="311"/>
+  <text transform="matrix(2.60125, 0, 0, 2.5693, -580.224, -405.046)" xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" id="svg_5" y="258.567215" x="341.658262" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ff0000" fill="#ffffff">TimAsh</text>
+  <polygon strokeWidth="0" strokecolor="#ff0000" fill="#ff0000" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_9" cy="127" cx="139"/>
+  <polygon strokeWidth="0" strokecolor="#ff0000" fill="#ff0000" edge="0" orient="x" sides="6" shape="regularPoly" id="svg_11" cy="108" cx="169"/>
+ </g>
+</svg>
