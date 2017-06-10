@@ -32,7 +32,7 @@
         <li>Github</li>
       </ul>
       <% if !user_signed_in? %>
-      <p class="sign_in">Admin Login</p>
+      <p class="sign_in"><%= link_to "Admin Login", new_user_session_path %></p>
       <% end %>
     </div>
 
@@ -48,8 +48,8 @@
 
         <% if user_signed_in? %>
         <div class="buttons">
-          <button class="button"><%= link_to "New Post", new_post_path %></button>
-          <button class="button">Log out</button>
+          <div class=""><%= link_to "New Post", new_post_path %></div>
+          <div class=""><%= link_to "Log Out", destroy_user_session_path, method: :delete %></div>
         </div>
         <% end %>
       </div>
